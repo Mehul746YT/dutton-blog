@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-manage-a-pregnant-mare.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-feed-horses-on-pasture.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
