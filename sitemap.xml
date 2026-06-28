@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-canter-on-a-horse-for-the-first-time.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-train-a-horse-to-trot-on-cue.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
