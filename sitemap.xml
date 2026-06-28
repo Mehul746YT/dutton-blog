@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-train-a-horse-to-stand-still.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-plan-a-family-vacation-to-a-dude-ranch.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
