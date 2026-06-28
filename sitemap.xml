@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-introduce-a-new-horse-to-the-herd.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-prevent-horse-mud-fever.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
