@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-feed-a-senior-horse-for-weight-gain.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-care-for-horse-hooves-in-winter.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
