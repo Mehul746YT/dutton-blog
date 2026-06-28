@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-spot-signs-of-laminitis-in-horses.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-care-for-horse-leather-reins.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
