@@ -291,3 +291,88 @@ footer p {
         padding: 1.5rem;
     }
 }
+
+/* Ad Layout Styles */
+.ad-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+    clear: both;
+}
+
+.desktop-ad {
+    display: block;
+}
+.mobile-ad {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .desktop-ad {
+        display: none;
+    }
+    .mobile-ad {
+        display: block;
+    }
+}
+
+/* Two-column layout for main page & articles */
+.layout-grid {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 2.5rem;
+}
+
+@media (max-width: 1024px) {
+    .layout-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Sidebar elements */
+.sidebar-ad-card {
+    background-color: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sidebar-ad-title {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+}
+
+/* Direct Link CTA Button */
+.ranch-rewards-cta {
+    display: block;
+    background-color: var(--primary);
+    color: #000 !important;
+    text-decoration: none !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    padding: 1rem 1.5rem;
+    border-radius: 4px;
+    box-shadow: 0 0 15px rgba(212, 175, 55, 0.4);
+    transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
+    text-align: center;
+    width: 100%;
+}
+
+.ranch-rewards-cta:hover {
+    background-color: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 0 25px rgba(212, 175, 55, 0.6);
+}
+
