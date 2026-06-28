@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-care-for-a-horse-after-a-hard-ride.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-choose-horseshoes-vs-barefoot.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
