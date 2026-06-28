@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-dismount-a-horse-safely.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-mount-a-horse-from-a-mounting-block.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
