@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-do-bitcoin-micro-earnings-work.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-earn-free-satoshis-by-playing-games.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
