@@ -6,6 +6,31 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/what-is-a-lightning-address-and-how-do-i-get-one.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-teach-your-family-about-bitcoin-using-fun-quizzes.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/what-is-a-satoshi-and-how-do-you-earn-them.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/what-is-the-bitcoin-lightning-network-and-how-does-it-work.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-set-up-a-lightning-wallet-for-beginners.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/why-quiz-based-rewards-are-tax-friendly-for-beginners.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
