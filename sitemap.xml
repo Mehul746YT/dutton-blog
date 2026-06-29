@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/is-the-bitcoin-lightning-network-safe-for-micro-transactions.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-set-up-a-lightning-node-at-home.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
