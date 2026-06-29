@@ -6,6 +6,26 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-run-a-homestead-farm-using-open-source-software.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/essential-privacy-tools-for-off-grid-living.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/using-smart-contracts-for-farm-share-agreements.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-local-agricultural-businesses-use-token-rewards.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-protect-your-digital-identity-in-rural-areas.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
