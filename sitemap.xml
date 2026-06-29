@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-get-started-with-crypto-learn-and-earn.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/why-quizzes-increase-user-retention-in-crypto-apps.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
