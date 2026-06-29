@@ -6,6 +6,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-implement-a-digital-rewards-system-for-a-ranch.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/can-you-buy-cattle-and-farm-supplies-with-bitcoin.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/decentralized-web-apps-built-for-rural-innovators.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/why-off-grid-ranchers-are-mining-bitcoin-with-excess-energy.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
