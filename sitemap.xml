@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-accept-crypto-at-farmers-markets.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-store-emergency-backup-power-for-farm-electronics.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
