@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/the-benefit-of-micro-incentives-in-online-learning.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-earn-free-bitcoin-while-reading-articles.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
