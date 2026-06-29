@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/the-digital-cowboy-guide-to-offline-maps-and-gps-navigation.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/the-future-of-decentralized-ranching-and-smart-farming.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
