@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/why-quiz-based-rewards-are-tax-friendly-for-beginners.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/the-mechanics-of-token-distribution-in-learn-to-earn.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
