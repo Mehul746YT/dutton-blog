@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/the-speed-of-lightning-network-transactions-compared-to-visa.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/why-passwordless-web-apps-are-the-future-of-cyber-security.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
