@@ -6,6 +6,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/why-off-grid-ranchers-are-mining-bitcoin-with-excess-energy.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-run-a-bitcoin-node-on-solar-power.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-stack-sats-passively-while-shopping-online.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
