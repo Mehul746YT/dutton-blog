@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/top-trivia-apps-that-pay-in-real-bitcoin.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-earn-cryptocurrency-while-learning-coding.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
