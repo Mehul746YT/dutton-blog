@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/the-digital-cowboy-guide-to-hardware-security.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/using-decentralized-storage-for-farm-record-keeping.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
