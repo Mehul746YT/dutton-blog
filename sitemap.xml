@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/what-is-sovereign-homesteading-and-how-does-bitcoin-fit-in.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/best-hardware-wallets-for-off-grid-homesteaders.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
