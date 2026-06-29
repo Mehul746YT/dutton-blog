@@ -6,6 +6,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/the-mechanics-of-token-distribution-in-learn-to-earn.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-get-paid-to-learn-about-decentralized-applications.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-learn-smart-contract-basics-through-puzzles.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
