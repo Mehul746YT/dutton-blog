@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-buy-land-using-bitcoin-or-stablecoins.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-build-a-solar-powered-workshop-for-tech-projects.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
