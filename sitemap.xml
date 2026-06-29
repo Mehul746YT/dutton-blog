@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/best-way-to-buy-small-amounts-of-bitcoin-on-lightning.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/what-is-lightning-network-liquidity-and-why-does-it-matter.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
