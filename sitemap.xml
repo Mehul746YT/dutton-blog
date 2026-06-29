@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/what-is-a-bolt11-invoice-and-how-to-pay-it.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-receive-zero-fee-micro-sponsorships-in-crypto.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
