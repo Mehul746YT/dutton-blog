@@ -6,6 +6,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/best-satellite-internet-setups-for-remote-homesteads.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://blog.duttonrewards.tech/articles/best-outdoor-power-stations-for-charging-laptops-and-gear.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-bitcoin-mining-protects-electric-grids-in-rural-texas.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
