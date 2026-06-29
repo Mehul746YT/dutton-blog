@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/how-to-teach-kids-about-crypto-using-gamified-quizzes.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-test-your-web3-knowledge-and-earn-tokens.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
