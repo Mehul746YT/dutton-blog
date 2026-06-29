@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/the-safety-of-storing-bitcoin-on-mobile-lightning-wallets.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-setup-strike-app-for-lightning-payments.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
