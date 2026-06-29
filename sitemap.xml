@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://blog.duttonrewards.tech/articles/best-rugged-electronics-built-for-farm-and-ranch-work.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://blog.duttonrewards.tech/articles/how-to-protect-your-crypto-recovery-seeds-from-natural-disasters.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
